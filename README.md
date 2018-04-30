@@ -13,4 +13,5 @@
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/008.String%20to%20Integer%20(atoi).cpp)|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/009.%20Palindrome%20Number.cpp)|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/011.%20Container%20With%20Most%20Water.cpp)|
+|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/014.%20Longest%20Common%20Prefix.cpp)|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/015.%203Sum.cpp)|
