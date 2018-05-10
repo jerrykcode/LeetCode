@@ -22,3 +22,4 @@
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/022.%20Generate%20Parentheses.cpp)|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/023.%20Merge%20k%20Sorted%20Lists.cpp)|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/024.%20Swap%20Nodes%20in%20Pairs.cpp)|
+|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|
