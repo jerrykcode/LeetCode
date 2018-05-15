@@ -24,3 +24,4 @@
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/024.%20Swap%20Nodes%20in%20Pairs.cpp)|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/025.%20Reverse%20Nodes%20in%20k-Group.cpp)|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|
+|027|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/027.%20Remove%20Element.cpp)|
