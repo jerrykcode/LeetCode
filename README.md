@@ -30,3 +30,4 @@
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/039.%20Combination%20Sum.cpp)|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/040.%20Combination%20Sum%20II.cpp)|
 |046|[Permutations](https://leetcode.com/problems/permutations/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/046.%20Permutations.cpp)|
+|047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/047.%20Permutations%20II.cpp)|
