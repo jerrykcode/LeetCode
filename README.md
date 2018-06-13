@@ -26,6 +26,7 @@
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/027.%20Remove%20Element.cpp)|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/028.%20Implement%20strStr().cpp)|
+|030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/030.%20Substring%20with%20Concatenation%20of%20All%20Words.cpp)|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/038.%20Count%20and%20Say.cpp)|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/039.%20Combination%20Sum.cpp)|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/040.%20Combination%20Sum%20II.cpp)|
