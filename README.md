@@ -32,6 +32,7 @@
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/034.%20Search%20for%20a%20Range.cpp)|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/035.%20Search%20Insert%20Position.cpp)|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/036.%20Valid%20Sudoku.cpp)|
+|037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/037.%20Sudoku%20Solver.cpp)|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/038.%20Count%20and%20Say.cpp)|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/039.%20Combination%20Sum.cpp)|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/040.%20Combination%20Sum%20II.cpp)|
