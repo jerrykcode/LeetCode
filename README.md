@@ -36,7 +36,7 @@
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/038.%20Count%20and%20Say.cpp)|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/039.%20Combination%20Sum.cpp)|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/040.%20Combination%20Sum%20II.cpp)|
-|042|[Trapping Rain Water](https://leetcode.com/problems/first-missing-positive/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/042.%20Trapping%20Rain%20Water.cpp)([Solution](https://leetcode.com/problems/trapping-rain-water/discuss/143199/Simple-C++-O(n)-time-solution))|
+|042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/042.%20Trapping%20Rain%20Water.cpp)([Solution](https://leetcode.com/problems/trapping-rain-water/discuss/143199/Simple-C++-O(n)-time-solution))|
 |046|[Permutations](https://leetcode.com/problems/permutations/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/046.%20Permutations.cpp)|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/047.%20Permutations%20II.cpp)|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/049.%20Group%20Anagrams.cpp)|
