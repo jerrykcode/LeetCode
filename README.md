@@ -43,3 +43,4 @@
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/053.%20Maximum%20Subarray.cpp)|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/055.%20Jump%20Game.cpp)([Solution](https://leetcode.com/problems/jump-game/discuss/144112/C++-O(n)-Solution))|
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/056.%20Merge%20Intervals.cpp)|
+|057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/057.%20Insert%20Interval.cpp)|
