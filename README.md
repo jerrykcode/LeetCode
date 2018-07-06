@@ -44,3 +44,4 @@
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/055.%20Jump%20Game.cpp)([Solution](https://leetcode.com/problems/jump-game/discuss/144112/C++-O(n)-Solution))|
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/056.%20Merge%20Intervals.cpp)|
 |057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/057.%20Insert%20Interval.cpp)|
+|058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/58.%20Length%20of%20Last%20Word.cpp)|
