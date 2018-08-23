@@ -49,3 +49,4 @@
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/63.%20Unique%20Paths%20II.cpp)|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/064.%20Minimum%20Path%20Sum.cpp)|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/066.%20Plus%20One.cpp)|
+|067|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/067%20Add%20Binary.cpp)|
