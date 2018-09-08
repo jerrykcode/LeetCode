@@ -50,3 +50,4 @@
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/064.%20Minimum%20Path%20Sum.cpp)|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/066.%20Plus%20One.cpp)|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/067%20Add%20Binary.cpp)|
+|073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/073.%20Set%20Matrix%20Zeroes.cpp)|
