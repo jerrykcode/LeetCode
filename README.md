@@ -51,3 +51,4 @@
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/066.%20Plus%20One.cpp)|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/067%20Add%20Binary.cpp)|
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/073.%20Set%20Matrix%20Zeroes.cpp)|
+|074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/074.%20Search%20a%202D%20Matrix.cpp)|
