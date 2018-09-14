@@ -40,13 +40,14 @@
 |046|[Permutations](https://leetcode.com/problems/permutations/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/046.%20Permutations.cpp)|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/047.%20Permutations%20II.cpp)|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/049.%20Group%20Anagrams.cpp)|
+|051|[N-Queens](https://leetcode.com/problems/n-queens/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/051.%20N-Queens.cpp)|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/053.%20Maximum%20Subarray.cpp)|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/055.%20Jump%20Game.cpp)([Solution](https://leetcode.com/problems/jump-game/discuss/144112/C++-O(n)-Solution))|
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/056.%20Merge%20Intervals.cpp)|
 |057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/057.%20Insert%20Interval.cpp)|
-|058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/58.%20Length%20of%20Last%20Word.cpp)|
+|058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/058.%20Length%20of%20Last%20Word.cpp)|
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/062.%20Unique%20Paths.cpp)([Reference](https://leetcode.com/problems/unique-paths/discuss/156504/Simple-Java-DP-solution))|
-|063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/63.%20Unique%20Paths%20II.cpp)|
+|063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/063.%20Unique%20Paths%20II.cpp)|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/064.%20Minimum%20Path%20Sum.cpp)|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/066.%20Plus%20One.cpp)|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/067%20Add%20Binary.cpp)|
