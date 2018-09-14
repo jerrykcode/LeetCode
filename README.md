@@ -41,6 +41,7 @@
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/047.%20Permutations%20II.cpp)|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/049.%20Group%20Anagrams.cpp)|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/051.%20N-Queens.cpp)|
+|052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/052.%20N-Queens%20II.cpp)|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/053.%20Maximum%20Subarray.cpp)|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/055.%20Jump%20Game.cpp)([Solution](https://leetcode.com/problems/jump-game/discuss/144112/C++-O(n)-Solution))|
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/056.%20Merge%20Intervals.cpp)|
