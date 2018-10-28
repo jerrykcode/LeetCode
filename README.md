@@ -48,6 +48,7 @@
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/056.%20Merge%20Intervals.cpp)|
 |057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/057.%20Insert%20Interval.cpp)|
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/058.%20Length%20of%20Last%20Word.cpp)|
+|060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/060%20Permutation%20Sequence.cpp)|
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/062.%20Unique%20Paths.cpp)([Reference](https://leetcode.com/problems/unique-paths/discuss/156504/Simple-Java-DP-solution))|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/063.%20Unique%20Paths%20II.cpp)|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/064.%20Minimum%20Path%20Sum.cpp)|
