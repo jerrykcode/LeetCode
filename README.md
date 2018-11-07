@@ -1,4 +1,4 @@
-# LeetCode
+﻿# LeetCode
 
 ### [LeetCode](https://leetcode.com/problemset/all/) (https://leetcode.com/problemset/all/)
 
@@ -56,4 +56,5 @@
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/067%20Add%20Binary.cpp)|
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/073.%20Set%20Matrix%20Zeroes.cpp)|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/074.%20Search%20a%202D%20Matrix.cpp)|
+|084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/084.%20Largest%20Rectangle%20in%20Histogram.cpp)|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/098.%20Validate%20Binary%20Search%20Tree.cpp)|
