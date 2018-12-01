@@ -60,6 +60,7 @@
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/074.%20Search%20a%202D%20Matrix.cpp)|
 |077|[Combinations](https://leetcode.com/problems/combinations/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/077.%20Combinations.cpp)|
 |078|[Subsets](https://leetcode.com/problems/subsets/description)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/078.%20Subsets.cpp)|
+|079|[Word Search](https://leetcode.com/problems/word-search/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/079.%20Word%20Search.cpp)|
 |084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/084.%20Largest%20Rectangle%20in%20Histogram.cpp)([Solution](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/084%20Solution.md))|
 |089|[Gray Code](https://leetcode.com/problems/gray-code/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/089.%20Gray%20Code.cpp)([Solution](https://leetcode.com/problems/gray-code/discuss/194842/Simple-C%2B%2B-solution))|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/098.%20Validate%20Binary%20Search%20Tree.cpp)|
