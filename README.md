@@ -37,6 +37,7 @@
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/038.%20Count%20and%20Say.cpp)|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/039.%20Combination%20Sum.cpp)|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/040.%20Combination%20Sum%20II.cpp)|
+|041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/041.%20First%20Missing%20Positive.cpp)([Solution](https://leetcode.com/problems/first-missing-positive/discuss/201140/C%2B%2B-O(n)-time-constant-space))|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/042.%20Trapping%20Rain%20Water.cpp)([Solution](https://leetcode.com/problems/trapping-rain-water/discuss/143199/Simple-C++-O(n)-time-solution))|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/043.%20Multiply%20Strings.cpp)|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/045Jump%20Game%20ll.cpp)|
@@ -66,3 +67,4 @@
 |089|[Gray Code](https://leetcode.com/problems/gray-code/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/089.%20Gray%20Code.cpp)([Solution](https://leetcode.com/problems/gray-code/discuss/194842/Simple-C%2B%2B-solution))|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/091.%20Decode%20Ways.cpp)|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/098.%20Validate%20Binary%20Search%20Tree.cpp)|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/description)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/100.%20Same%20Tree.cpp)|
