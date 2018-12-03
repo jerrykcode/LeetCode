@@ -38,6 +38,7 @@
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/039.%20Combination%20Sum.cpp)|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/040.%20Combination%20Sum%20II.cpp)|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/042.%20Trapping%20Rain%20Water.cpp)([Solution](https://leetcode.com/problems/trapping-rain-water/discuss/143199/Simple-C++-O(n)-time-solution))|
+|043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/043.%20Multiply%20Strings.cpp)|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/045Jump%20Game%20ll.cpp)|
 |046|[Permutations](https://leetcode.com/problems/permutations/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/046.%20Permutations.cpp)|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/047.%20Permutations%20II.cpp)|
@@ -59,6 +60,9 @@
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/074.%20Search%20a%202D%20Matrix.cpp)|
 |077|[Combinations](https://leetcode.com/problems/combinations/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/077.%20Combinations.cpp)|
 |078|[Subsets](https://leetcode.com/problems/subsets/description)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/078.%20Subsets.cpp)|
+|079|[Word Search](https://leetcode.com/problems/word-search/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/079.%20Word%20Search.cpp)|
+|080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.cpp)([Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/discuss/200185/Simple-C%2B%2B-8ms-solution))|
 |084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/084.%20Largest%20Rectangle%20in%20Histogram.cpp)([Solution](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/084%20Solution.md))|
 |089|[Gray Code](https://leetcode.com/problems/gray-code/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/089.%20Gray%20Code.cpp)([Solution](https://leetcode.com/problems/gray-code/discuss/194842/Simple-C%2B%2B-solution))|
+|091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/091.%20Decode%20Ways.cpp)|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/098.%20Validate%20Binary%20Search%20Tree.cpp)|
