@@ -81,3 +81,5 @@
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.cpp)|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp)|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.cpp)|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/118.%20Pascal's%20Triangle.cpp)|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/119.%20Pascal's%20Triangle%20II.cpp)|
