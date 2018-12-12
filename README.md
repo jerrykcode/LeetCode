@@ -67,6 +67,7 @@
 |089|[Gray Code](https://leetcode.com/problems/gray-code/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/089.%20Gray%20Code.cpp)([Solution](https://leetcode.com/problems/gray-code/discuss/194842/Simple-C%2B%2B-solution))|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/091.%20Decode%20Ways.cpp)|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/098.%20Validate%20Binary%20Search%20Tree.cpp)|
+|099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/099.%20Recover%20Binary%20Search%20Tree.cpp)([Solution](https://leetcode.com/problems/recover-binary-search-tree/discuss/204397/Simple-C%2B%2B-inorder-traversal-solution))|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/100.%20Same%20Tree.cpp)|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp)|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp)|
@@ -85,3 +86,4 @@
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/119.%20Pascal's%20Triangle%20II.cpp)|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/129.%20Sum%20Root%20to%20Leaf%20Numbers.cpp)|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/130.%20Surrounded%20Regions.cpp)|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/136.%20Single%20Number.cpp)|
