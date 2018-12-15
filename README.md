@@ -87,3 +87,4 @@
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/129.%20Sum%20Root%20to%20Leaf%20Numbers.cpp)|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/130.%20Surrounded%20Regions.cpp)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/136.%20Single%20Number.cpp)|
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/148.%20Sort%20List.cpp)|
