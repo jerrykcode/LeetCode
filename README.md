@@ -63,6 +63,7 @@
 |078|[Subsets](https://leetcode.com/problems/subsets/description)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/078.%20Subsets.cpp)|
 |079|[Word Search](https://leetcode.com/problems/word-search/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/079.%20Word%20Search.cpp)|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.cpp)([Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/discuss/200185/Simple-C%2B%2B-8ms-solution))|
+|083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/083.%20Remove%20Duplicates%20from%20Sorted%20List.cpp)|
 |084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/084.%20Largest%20Rectangle%20in%20Histogram.cpp)([Solution](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/084%20Solution.md))|
 |089|[Gray Code](https://leetcode.com/problems/gray-code/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/089.%20Gray%20Code.cpp)([Solution](https://leetcode.com/problems/gray-code/discuss/194842/Simple-C%2B%2B-solution))|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/091.%20Decode%20Ways.cpp)|
@@ -84,6 +85,8 @@
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.cpp)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/118.%20Pascal's%20Triangle.cpp)|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/119.%20Pascal's%20Triangle%20II.cpp)|
+|126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/126.%20Word%20Ladder%20II.cpp)|
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/127.%20Word%20Ladder.cpp)|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/129.%20Sum%20Root%20to%20Leaf%20Numbers.cpp)|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/130.%20Surrounded%20Regions.cpp)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/136.%20Single%20Number.cpp)|
