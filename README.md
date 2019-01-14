@@ -97,3 +97,4 @@
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/199.%20Binary%20Tree%20Right%20Side%20View.cpp)|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/207.%20Course%20Schedule.cpp)|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/208.%20Implement%20Trie%20(Prefix%20Tree).cpp)|
+|211|[ Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.cpp)|
