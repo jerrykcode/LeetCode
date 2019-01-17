@@ -98,3 +98,5 @@
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/207.%20Course%20Schedule.cpp)|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/208.%20Implement%20Trie%20(Prefix%20Tree).cpp)|
 |211|[ Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.cpp)|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp)|
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp)|
