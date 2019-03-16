@@ -106,4 +106,5 @@
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/304.%20Range%20Sum%20Query%202D%20-%20Immutable.cpp)|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/354.%20Russian%20Doll%20Envelopes.cpp)([Reference](https://leetcode.com/problems/russian-doll-envelopes/discuss/225330/C%2B%2B-clean-code-sort-and-dp-with-explanations))|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/376.%20Wiggle%20Subsequence.cpp)([Reference](https://leetcode.com/problems/wiggle-subsequence/solution/))|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/413.%20Arithmetic%20Slices.cpp)|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/684.%20Redundant%20Connection.cpp)|
