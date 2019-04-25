@@ -55,6 +55,7 @@
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/062.%20Unique%20Paths.cpp)([Reference](https://leetcode.com/problems/unique-paths/discuss/156504/Simple-Java-DP-solution))|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/063.%20Unique%20Paths%20II.cpp)|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/064.%20Minimum%20Path%20Sum.cpp)|
+|065|[Valid Number](https://leetcode.com/problems/valid-number/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/065.%20Valid%20Number.cpp)|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/066.%20Plus%20One.cpp)|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/067%20Add%20Binary.cpp)|
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[C++](https://github.com/jerrykcode/LeetCode/blob/master/Algorithms/073.%20Set%20Matrix%20Zeroes.cpp)|
